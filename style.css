@@ -6,15 +6,15 @@ body{
   {
     width: 100%;
     margin: 0px;
-    box-shadow:5px 5px 5px grey;
+    box-shadow:5px 5px 5px rgb(54, 255, 4);
     font-size: 23px;
   }
   .test_image_and_result
   {
-    background: white ; 
+    background: rgb(255, 255, 255) ; 
     border-radius: 20px; 
     color: black;
-    box-shadow:5px 5px 5px grey;
+    box-shadow:5px 5px 5px rgb(54, 255, 4);
     float: none;
     padding: 10px;
   }
@@ -24,7 +24,7 @@ body{
   }
   .result_para_tag 
   {
-    box-shadow:5px 5px 5px grey;
+    box-shadow:5px 5px 5px rgb(1, 255, 1);
     font-size: 20px;
   }
 
@@ -34,18 +34,18 @@ body{
 
   .copy_right_footer{
     position: fixed;
-    color: white;
+    color: rgb(0, 0, 0);
     bottom: 0;
     width: 100%;
-    background-color: grey;
+    background-color: rgb(252, 135, 135);
     line-height: 3;
     text-align: center;
   }
 
   canvas{
-    border: 5px solid white;
+    border: 5px solid rgb(252, 159, 159);
     border-radius: 20px;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 5px 5px 5px rgb(54, 255, 4);
     margin-top: 160px;
   }
  
