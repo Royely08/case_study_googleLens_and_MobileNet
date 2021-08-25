@@ -11,17 +11,15 @@ body{
   }
   .test_image_and_result
   {
-    background: rgb(255, 255, 255) ; 
+    background: rgb(152, 255, 149) ; 
     border-radius: 20px; 
     color: black;
-    box-shadow:5px 5px 5px rgb(54, 255, 4);
+    box-shadow:5px 5px 5px rgb(255, 139, 139);
     float: none;
     padding: 10px;
+    text-align: center;
   }
-  .mini_result
-  {
-    font-size: 18px ;
-  }
+
   .result_para_tag 
   {
     box-shadow:5px 5px 5px rgb(1, 255, 1);
@@ -43,9 +41,10 @@ body{
   }
 
   canvas{
-    border: 5px solid rgb(252, 159, 159);
+    border: 5px solid rgb(0, 0, 0);
     border-radius: 20px;
-    box-shadow: 5px 5px 5px rgb(54, 255, 4);
+    box-shadow: 5px 5px 5px rgb(255, 159, 159);
     margin-top: 160px;
   }
+ 
  
