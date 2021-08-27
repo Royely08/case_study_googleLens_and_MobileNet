@@ -1,50 +1,27 @@
-body{
-    font-family: 'Rampart One', cursive; 
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0%;
+    box-shadow: 5px 5px 5px grey;
 }
 
-.heading
-  {
-    width: 100%;
-    margin: 0px;
-    box-shadow:5px 5px 5px rgb(54, 255, 4);
-    font-size: 23px;
-  }
-  .test_image_and_result
-  {
-    background: rgb(152, 255, 149) ; 
-    border-radius: 20px; 
+.note{
+    font-size: 15px;
     color: black;
-    box-shadow:5px 5px 5px rgb(255, 139, 139);
-    float: none;
-    padding: 10px;
-    text-align: center;
-  }
+}
 
-  .result_para_tag 
-  {
-    box-shadow:5px 5px 5px rgb(1, 255, 1);
-    font-size: 20px;
-  }
-
-  .result_para_tag span{
-    white-space: pre-line;
-  }
-
-  .copy_right_footer{
+.copyright_footer{
     position: fixed;
-    color: rgb(0, 0, 0);
-    bottom: 0;
+    color: white;
+    bottom: 0%;
     width: 100%;
-    background-color: rgb(252, 135, 135);
+    background-color: grey;
     line-height: 3;
     text-align: center;
-  }
+}
 
-  canvas{
-    border: 5px solid rgb(0, 0, 0);
+canvas{
+    border: 5px solid white;
     border-radius: 20px;
-    box-shadow: 5px 5px 5px rgb(255, 159, 159);
-    margin-top: 160px;
-  }
- 
- 
+    box-shadow: 5px 5px 5px grey;
+}
